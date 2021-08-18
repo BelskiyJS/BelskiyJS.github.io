@@ -1,0 +1,22 @@
+{
+  "name": "Состав работ",
+  "short_name": "Состав работ",
+  "theme_color": "#c4cfff",
+  "background_color": "#c4cfff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "favicon/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
